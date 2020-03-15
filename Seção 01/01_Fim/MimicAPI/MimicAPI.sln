@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MimicAPI", "MimicAPI\MimicAPI.csproj", "{D86E39F9-FA4A-4BDB-AF5D-A3081981AF17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86E39F9-FA4A-4BDB-AF5D-A3081981AF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86E39F9-FA4A-4BDB-AF5D-A3081981AF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86E39F9-FA4A-4BDB-AF5D-A3081981AF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86E39F9-FA4A-4BDB-AF5D-A3081981AF17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865D860F-8D47-4F1B-B9F8-F96EB5AF65B2}
+	EndGlobalSection
+EndGlobal
